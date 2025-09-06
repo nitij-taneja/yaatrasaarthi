@@ -1,0 +1,132 @@
+[
+  {
+    "model": "chatbot.destination",
+    "pk": 1,
+    "fields": {
+      "name": "Badrinath",
+      "description": "One of the four sacred Char Dham pilgrimage sites dedicated to Lord Vishnu",
+      "best_time": "May to October",
+      "altitude": "3,133 meters",
+      "mythology": "According to Hindu mythology, Lord Vishnu meditated here under a Badri tree",
+      "latitude": 30.7433,
+      "longitude": 79.4938
+    }
+  },
+  {
+    "model": "chatbot.destination",
+    "pk": 2,
+    "fields": {
+      "name": "Kedarnath",
+      "description": "Sacred temple dedicated to Lord Shiva, one of the twelve Jyotirlingas",
+      "best_time": "May to October",
+      "altitude": "3,583 meters",
+      "mythology": "Legend says the Pandavas built this temple to seek Lord Shiva's forgiveness",
+      "latitude": 30.7346,
+      "longitude": 79.0669
+    }
+  },
+  {
+    "model": "chatbot.destination",
+    "pk": 3,
+    "fields": {
+      "name": "Gangotri",
+      "description": "Source of the holy river Ganga, sacred to Hindus",
+      "best_time": "May to October",
+      "altitude": "3,100 meters",
+      "mythology": "King Bhagirath meditated here to bring Ganga to earth",
+      "latitude": 30.9993,
+      "longitude": 78.9411
+    }
+  },
+  {
+    "model": "chatbot.destination",
+    "pk": 4,
+    "fields": {
+      "name": "Yamunotri",
+      "description": "Source of the Yamuna river, dedicated to Goddess Yamuna",
+      "best_time": "May to October",
+      "altitude": "3,293 meters",
+      "mythology": "Sage Asit Muni resided here and bathed daily in both Ganga and Yamuna",
+      "latitude": 31.0117,
+      "longitude": 78.4270
+    }
+  },
+  {
+    "model": "chatbot.ecotip",
+    "pk": 1,
+    "fields": {
+      "title": "Use Reusable Water Bottles",
+      "description": "Carry reusable water bottles to reduce plastic waste during your pilgrimage",
+      "category": "Waste Management"
+    }
+  },
+  {
+    "model": "chatbot.ecotip",
+    "pk": 2,
+    "fields": {
+      "title": "Biodegradable Toiletries",
+      "description": "Use biodegradable soaps and shampoos to protect mountain water sources",
+      "category": "Environmental Protection"
+    }
+  },
+  {
+    "model": "chatbot.ecotip",
+    "pk": 3,
+    "fields": {
+      "title": "Stay on Marked Trails",
+      "description": "Stick to marked trails to protect vegetation and prevent erosion",
+      "category": "Wildlife Protection"
+    }
+  },
+  {
+    "model": "chatbot.ecotip",
+    "pk": 4,
+    "fields": {
+      "title": "Support Local Homestays",
+      "description": "Choose local homestays and businesses to support the community",
+      "category": "Community Support"
+    }
+  },
+  {
+    "model": "chatbot.ecotip",
+    "pk": 5,
+    "fields": {
+      "title": "Pack Out All Trash",
+      "description": "Follow Leave No Trace principles - pack out everything you bring in",
+      "category": "Waste Management"
+    }
+  },
+  {
+    "model": "chatbot.localartisan",
+    "pk": 1,
+    "fields": {
+      "name": "Ramesh Kumar",
+      "craft_type": "Wood Carving",
+      "location": "Badrinath Village",
+      "contact_info": "Available at local market near temple",
+      "description": "Traditional wood carver specializing in religious sculptures and temple decorations"
+    }
+  },
+  {
+    "model": "chatbot.localartisan",
+    "pk": 2,
+    "fields": {
+      "name": "Sunita Devi",
+      "craft_type": "Handwoven Textiles",
+      "location": "Kedarnath Valley",
+      "contact_info": "Contact through local homestays",
+      "description": "Expert weaver creating traditional Garhwali shawls and blankets using local wool"
+    }
+  },
+  {
+    "model": "chatbot.localartisan",
+    "pk": 3,
+    "fields": {
+      "name": "Mohan Singh",
+      "craft_type": "Stone Carving",
+      "location": "Gangotri",
+      "contact_info": "Workshop near Gangotri temple",
+      "description": "Master stone carver creating religious idols and architectural elements"
+    }
+  }
+]
